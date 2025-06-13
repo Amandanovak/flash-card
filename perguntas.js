@@ -1,23 +1,23 @@
 criaCartao(
-  'Corinthians',
-  'Ano de fundação?',
-  '1910'
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-  'Corinthians',
-  'Estádio atual?',
-  'Neo Química Arena'
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(
-  'Corinthians',
-  'Mascote do time?',
-  'Mosqueteiro'
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-  'Corinthians',
-  'Cores do time?',
-  'Preto e branco'
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
